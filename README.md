@@ -1,8 +1,8 @@
 ## TODO
 
-- Restructure app for further development
-- Setup testing framework
-- Implement /data POST
+- ~~Restructure app for further development~~
+- ~~Setup testing framework~~
+- ~~Implement /data POST~~
 - Implement /data GET
 - Refactor implementations with helper file structure
 - Audit of package vulnerabilities
